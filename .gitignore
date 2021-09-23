@@ -1,0 +1,9 @@
+node_modules/
+pnpm-lock.yaml
+*.cmd
+dist/*
+!*.html
+!*.css
+
+*.LICENSE.txt
+server.ssr.js
