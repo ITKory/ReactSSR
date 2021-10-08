@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "build": "webpack",
-    "ssr": "webpack --config webpack.ssr.config.js && nodemon server.ssr.js",
+    "ssr": "node server.mjs",
     "dev": "webpack serve"
   },
   "author": "",
